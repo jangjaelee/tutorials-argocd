@@ -10,7 +10,7 @@
 
 &nbsp;
 
-## Argenda
+## Agenda
 ### [**1) Introduction to Argo CD**](https://github.com/jangjaelee/tutorials-argocd/wiki/1\)-Introduction-to-Argo-CD)
 ### [**2) Installing Argo CD**](https://github.com/jangjaelee/tutorials-argocd/wiki/2\)-Installing-Argo-CD-(included-HA))
 ### [**3) User Management with Keycloak**](https://github.com/jangjaelee/tutorials-argocd/wiki/3\)-User-Management-with-Keycloak)
