@@ -16,7 +16,7 @@ ingress:
     labels: {}
     host: ''
     tlsSecretName: ''
-    ingressClassName: 'nginx'
+    ingressClassName: nginx
 
 cartsdb:
     image:
