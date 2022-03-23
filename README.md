@@ -9,7 +9,7 @@
 ![ArgoCD_wallpapaer_3.png](https://github.com/jangjaelee/tutorials-argocd/blob/main/img/ArgoCD_wallpapaer_3.png)
 
 &nbsp;
-jjjj
+
 ## Agenda
 ### [**1) Introduction to Argo CD**](https://github.com/jangjaelee/tutorials-argocd/wiki/1\)-Introduction-to-Argo-CD)
 ### [**2) Installing Argo CD (included HA)**](https://github.com/jangjaelee/tutorials-argocd/wiki/2\)-Installing-Argo-CD-(included-HA))
