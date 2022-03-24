@@ -2,11 +2,11 @@ apiVersion: v1
 entries:
   sock-shop:
   - apiVersion: v1
-    created: "2022-03-24T04:11:03.001933366+09:00"
+    created: "2022-03-24T15:56:40.536382015+09:00"
     description: A Helm chart for Sock Shop
-    digest: 4c782fe0aaf5487271640f9f56ee733d2ea4a0eb71a67e7655bbc52763e55799
+    digest: c9a86993bdf10070ed85b573eeaa81468c2b983ce352251338e1e8a97ed7c297
     name: sock-shop
     urls:
     - https://jangjaelee.github.io/tutorials-argocd/stable/sock-shop-0.3.0.tgz
     version: 0.3.0
-generated: "2022-03-24T04:11:03.000058495+09:00"
+generated: "2022-03-24T15:56:40.533956331+09:00"
