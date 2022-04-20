@@ -1,4 +1,4 @@
-# ArgoCD Tutorial | GitOps CD for Kubernetes
+# Argo CD Tutorial | GitOps CD for Kubernetes
 
 ---
 
