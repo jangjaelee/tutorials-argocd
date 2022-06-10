@@ -6,7 +6,7 @@
 
 ---
 
-![ArgoCD_wallpapaer_3.png](https://github.com/jangjaelee/tutorials-argocd/blob/main/img/ArgoCD_wallpapaer_3.png)
+![ArgoCD_wallpapaer_3.png](https://raw.githubusercontent.com/jangjaelee/tutorials-argocd/main/img/ArgoCD_wallpapaer_3.png)
 
 &nbsp;
 
